@@ -1,0 +1,18 @@
+{
+    "login" : {
+            "user":
+            {
+                "work_center": "WO1",
+                "fleetApiKey":"alkdjfalkdjflkasjdflka",
+                "first_name":"name",
+                "last_name":"last",
+                "phone_number":"885223998",
+                "department":"Maintenance",
+                "department_head":"13",
+                "type":"2",
+                "id": 859,
+                "known_as":"Test",
+                "facility":"CRA"
+            }
+    }
+}
