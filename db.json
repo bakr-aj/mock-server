@@ -14,5 +14,69 @@
                 "known_as":"Test",
                 "facility":"CRA"
             }
+    },   
+    "trips" :{
+        "trips":[
+    
+        {
+            "requester_id":7896,
+            "id":200,
+            "source":"city_!",
+            "destination":"city_@",
+            "vehicle_model":"Swift",
+            "vehicle_colour":"Red",
+            "vehicle_variant":"VDI",
+            "vehicle_year":"2013",
+            "vehicle_make":"Maruti suzuki",
+            "plate_number":"K1-9",
+            "seats_number":"5",
+            "driver":"namoo oo",
+            "nationality":"Sri Lanka",
+            "gender":"M",
+            "driver_id":"11",
+            "estimated_start_time":"2018-07-17 15:28:49",
+            "estimated_end_time":"",
+            "onward_actual_start_time":"",
+            "onward_actual_end_time":"",
+            "estimated_return_start_time":"",
+            "estimated_return_end_time":"",
+            "actual_return_end_time":"",
+            "actual_return_start_time":"",
+            "type":"one-way",
+            "nature":"passenger Movment",
+            "status":"scheduled",
+            "passenger_type":"$"
+        },
+        {
+            "requester_id":896,
+            "id":201,
+            "source":"city_1",
+            "destination":"city_2",
+            "vehicle_model":"Swift",
+            "vehicle_colour":"Red",
+            "vehicle_variant":"VDI",
+            "vehicle_year":"2013",
+            "vehicle_make":"Maruti suzuki",
+            "plate_number":"K1-9",
+            "seats_number":"5",
+            "driver":"namoo oo",
+            "nationality":"Sri Lanka",
+            "gender":"M",
+            "driver_id":"11",
+            "estimated_start_time":"2018-10-17 15:28:49",
+            "estimated_end_time":"",
+            "onward_actual_start_time":"",
+            "onward_actual_end_time":"",
+            "estimated_return_start_time":"",
+            "estimated_return_end_time":"",
+            "actual_return_end_time":"",
+            "actual_return_start_time":"",
+            "type":"one-way",
+            "nature":"passenger Movment",
+            "status":"scheduled",
+            "passenger_type":"$"
+        }
+    
+        ]
     }
 }
