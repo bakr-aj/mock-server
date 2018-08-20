@@ -78,5 +78,20 @@
         }
     
         ]
+    },
+    "location":{
+        "locations":[
+    
+        {
+            "id":12,
+            "name":"city_!"
+        },
+        {
+            "id":85,
+            "name":"city_@"
+        }
+    
+        ]
     }
+    
 }
