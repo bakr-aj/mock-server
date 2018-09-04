@@ -97,11 +97,13 @@
         "drivers":[
             {
                 "driver_name":"driver1",
+                "phone_number":"885223998",
                 "person_type":"E",
                 "id": 11
             },
             {
                 "driver_name":"driver2",
+                "phone_number":"885223998",
                 "person_type":"E",
                 "id": 19
             }
@@ -117,6 +119,8 @@
                 "vehicle_model":"Brio",
                 "plate_number":"K1-9",
                 "vehicle_color":"Grey",
+                "fuel_consumption":"10",
+                "passenger_volume":"5",
                 "status":"active",
                 "id": 10
             },
@@ -128,6 +132,8 @@
                 "vehicle_model":"rio",
                 "plate_number":"K 258",
                 "vehicle_color":"Grey",
+                "fuel_consumption":"10",
+                "passenger_volume":"5",
                 "status":"active",
                 "id": 11
             }
