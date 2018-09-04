@@ -92,6 +92,46 @@
         }
     
         ]
+    },
+    "drivers":{
+        "drivers":[
+            {
+                "driver_name":"driver1",
+                "person_type":"E",
+                "id": 13
+            },
+            {
+                "driver_name":"driver2",
+                "person_type":"E",
+                "id": 15
+            }
+        ]
+    },
+    "vehicles":{
+        "vehicles":[
+            {
+                "vehicle_make": "Honda",
+                "ownership":"lease",
+                "vehicle_variant":"S MT",
+                "vehicle_year":"2015",
+                "vehicle_model":"Brio",
+                "plate_number":"K 256",
+                "vehicle_color":"Grey",
+                "status":"active",
+                "id": 10
+            },
+            {
+                "vehicle_make": "Honda2",
+                "ownership":"lease",
+                "vehicle_variant":"S MT",
+                "vehicle_year":"2016",
+                "vehicle_model":"rio",
+                "plate_number":"K 258",
+                "vehicle_color":"Grey",
+                "status":"active",
+                "id": 11
+            }
+        ]
     }
     
 }
