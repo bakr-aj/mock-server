@@ -112,10 +112,10 @@
             {
                 "vehicle_make": "Honda",
                 "ownership":"lease",
-                "vehicle_variant":"K1-9",
+                "vehicle_variant":"S MT",
                 "vehicle_year":"2015",
                 "vehicle_model":"Brio",
-                "plate_number":"K 256",
+                "plate_number":"K1-9",
                 "vehicle_color":"Grey",
                 "status":"active",
                 "id": 10
