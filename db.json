@@ -81,7 +81,8 @@
             "passenger_type":"$"
         }
     
-        ]
+        ],
+        "status" : "S"
     },
     "location":{
         "locations":[
